@@ -37,7 +37,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center py-16">
           <h2 className="text-6xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent mb-6">
-            Transform Your
+            AI Transform Your
             <br />
             Consultation Notes
           </h2>
